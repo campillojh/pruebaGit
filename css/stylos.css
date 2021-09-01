@@ -8,3 +8,8 @@ body {
   font-size: 20px;
   color: cadetblue;
 }
+
+.label {
+  font-size: 20px;
+  text-decoration: solid 1px;
+}
