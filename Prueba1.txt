@@ -28,4 +28,8 @@ git config --global user.name 'Jhon Jairo'
 git config --global user.mail 'team@platzi'
 
 
+//ver historia del archivo
+ git log archivo.txt
 
+ //vre las diferencias de los commit
+ git show
