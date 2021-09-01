@@ -1,6 +1,6 @@
 Archivo de prueba de git
 Jhon Jairo Campillo Serrato
-Tiene 49 annios
+Tiene 48 annios
 
 //inicializar
 git add archivo.txt o 
@@ -31,5 +31,8 @@ git config --global user.mail 'team@platzi'
 //ver historia del archivo
  git log archivo.txt
 
- //vre las diferencias de los commit
+ //ver las diferencias de los commit
  git show
+
+ //diferencia entre dos commit
+>git diff c18aa60dace7ab00b0407771a11a2187b67bdf4f 341d2c8f1989049e4a9542b44b60088c44a2ce9b
