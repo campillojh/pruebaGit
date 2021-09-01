@@ -1,3 +1,31 @@
 Archivo de prueba de git
 Jhon Jairo Campillo Serrato
 Tiene 49 annios
+
+//inicializar
+git add archivo.txt o 
+git add.
+
+//remover el git add.
+git rm archivo.txt  = cambia el estado del archivo
+
+git rm --cached archivo.txt -- esta en memoria ram
+
+le pudes volver a dar 
+git status volvemos al estado inicial
+
+//Lo envio el commit
+git commit -m "primer commit"
+
+//configuraciones
+git config 
+git config --list 
+//listas de configuraciones
+git config --list  --show-origin
+
+
+git config --global user.name 'Jhon Jairo'
+git config --global user.mail 'team@platzi'
+
+
+
